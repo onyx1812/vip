@@ -1,0 +1,31 @@
+$field-height: 50px;
+@import 'cart';
+@import 'form';
+@import 'coupon';
+.checkout{
+	max-height: 0px;
+	visibility: hidden;
+	transition: 1s ease;
+	overflow: hidden;
+	position: relative;
+	z-index: 2;
+	.container{
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	&.show{
+		max-height: 3000px;
+		visibility: visible;
+	}
+	h3{
+		font-weight: 700;
+		font-size: 26px;
+		margin-bottom: 15px;
+	}
+}
+
+@media(min-width:992px){
+	.order-lg-2{
+		order:2;
+	}
+}

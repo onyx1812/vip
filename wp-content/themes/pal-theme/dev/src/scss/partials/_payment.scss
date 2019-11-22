@@ -1,0 +1,122 @@
+.payment{
+	max-height: 0px;
+	visibility: hidden;
+	transition: 1s ease;
+	overflow: hidden;
+	&.show{
+		visibility: visible;
+		max-height: 3000px;
+	}
+	.container{
+		background: $primary-color;
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	h4{
+		font-size: 16px;
+		font-weight: 700;
+		margin-bottom: 15px;
+	}
+	.payment-form{
+		padding: 15px;
+		@media(min-width:768px){
+			padding: 30px;
+		}
+		.btn--submit{
+			max-width: 100%;
+		}
+	}
+	.payment-method{
+		&--nav{
+			margin-bottom: 15px;
+			> li{
+				max-height: 50px;
+				overflow: hidden;
+				position: relative;
+				cursor: pointer;
+				box-shadow: 0 0 2px 0 rgba($dark, .6);
+				border-radius: 4px;
+				transition: max-height .5s ease;
+				&:not(:first-child){
+					margin-top: 15px;
+				}
+				> span{
+					height: 50px;
+					line-height: 50px;
+					font-size: 16px;
+					padding-left: 45px;
+					display: block;
+					position: relative;
+					&:before, &:after{
+						content:"";
+						display: block;
+						position: absolute;
+						top: 25px;
+						transform: translate(0, -50%);
+						border-radius: 50%;
+					}
+					&:before{
+						width: 16px;
+						height: 16px;
+						background: $green;
+						left: 15px;
+						border: 1px solid $white;
+					}
+					&:after{
+						display: none;
+						width: 8px;
+						height: 8px;
+						background: white;
+						left: 19px;
+					}
+				}
+				&.active{
+					max-height: 1000px;
+					transition: max-height 1s ease .5s;
+					> span{
+						background: $green;
+						color: #fff;
+						text-shadow: 0 0 0.5px;
+						&:after{
+							display: block;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+form{
+	input{
+		&[name="card_number"]{
+			background-repeat: no-repeat;
+			background-position: calc(100% - 10px) center;
+			background-size: auto 30px;
+			&.amex{
+				background-image: url('../img/cc-icons/amex.jpg');
+			}
+			&.diners{
+				background-image: url('../img/cc-icons/diners.jpg');
+			}
+			&.discover{
+				background-image: url('../img/cc-icons/discover.jpg');
+			}
+			&.jcb{
+				background-image: url('../img/cc-icons/jcb.jpg');
+			}
+			&.maestro{
+				background-image: url('../img/cc-icons/maestro.jpg');
+			}
+			&.mastercard{
+				background-image: url('../img/cc-icons/mastercard.jpg');
+			}
+			&.mir{
+				background-image: url('../img/cc-icons/mir.jpg');
+			}
+			&.visa{
+				background-image: url('../img/cc-icons/visa.jpg');
+			}
+		}
+	}
+}

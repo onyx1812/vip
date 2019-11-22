@@ -1,0 +1,80 @@
+.selling{
+	position: relative;
+	min-height: 100vh;
+	padding-top: 50px;
+	display: flex;
+	align-items: center;
+	z-index: 1;
+	border-bottom: 1px solid $secondary-color;
+	.container{
+		position: relative;
+		z-index: 3;
+	}
+	h1{
+		text-align: center;
+		font-size: 60px;
+		color: $secondary-color;
+		font-weight: 400;
+		letter-spacing: -4px;
+		margin-bottom: 100px;
+		span{
+			font-weight: 900;
+			color: $accent-color;
+		}
+	}
+}
+
+.slider{
+	color: $secondary-color;
+	h2{
+		font-size: 40px;
+		margin-bottom: 30px;
+	}
+	p{
+		font-size: 18px;
+		margin-bottom: 30px;
+		&.regular{
+			margin: 15px 0;
+			span{
+				font-weight: 500;
+				font-size: 120%;
+				color: red;
+				position: relative;
+				display: inline-block;
+				vertical-align: middle;
+				margin-left: 5px;
+				&:before{
+					content:"";
+					display: block;
+					position: absolute;
+					width: 100%;
+					height: 1px;
+					background: red;
+					left: 0; top: 50%;
+					transform: rotate(30deg) translate(0, -50%);
+				}
+				&:after{
+					content:"";
+					display: block;
+					position: absolute;
+					width: 100%;
+					height: 1px;
+					background: red;
+					right: 0; top: 50%;
+					transform: rotate(-30deg) translate(0, -50%);
+				}
+			}
+		}
+		&.today{
+			margin: 15px 0 30px;
+			span{
+				font-weight: 900;
+				font-size: 200%;
+				color: $accent-color;
+				display: inline-block;
+				vertical-align: middle;
+				margin-left: 10px;
+			}
+		}
+	}
+}

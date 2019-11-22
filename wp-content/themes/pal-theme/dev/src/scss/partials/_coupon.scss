@@ -1,0 +1,45 @@
+.coupon{
+	padding-bottom: 30px;
+	transition: 1s ease;
+	@media(min-width:992px){
+		width: calc(50% - 15px);
+	}
+	label{
+		display: block;
+		padding: 0 0 15px;
+		font-size: 14px;
+		user-select:none;
+		@media(min-width:768px){
+			font-size: 16px;
+		}
+		span{
+			text-decoration: underline;
+			font-weight: 700;
+			cursor: pointer;
+			&:hover{
+				opacity: .9;
+				text-decoration: none;
+			}
+		}
+	}
+	input{
+		height: $field-height;
+		margin-bottom: 15px;
+		@media(min-width:576px){
+			margin-bottom: 0;
+		}
+	}
+	.btn{
+		height: $field-height;
+		width: 100%;
+	}
+	form{
+		transition: 1s ease;
+		overflow: hidden;
+		&.hide{
+			max-height: 0px;
+			opacity: 0;
+			visibility: hidden;
+		}
+	}
+}

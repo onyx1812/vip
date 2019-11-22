@@ -1,0 +1,68 @@
+.main-header{
+	height: 50px;
+	line-height: 50px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	z-index: 10;
+	background: $secondary-color;
+	box-shadow: 0 0 4px $primary-color;
+	.logo{
+		float: left;
+		text-decoration: none;
+		color: $primary-color;
+		font-size: 48px;
+		font-weight: 400;
+		letter-spacing: -5px;
+		line-height: 1;
+		span{
+			font-weight: 900;
+			color: $accent-color;
+		}
+	}
+	.menu{
+		float: right;
+		margin-right: -15px;
+		li{
+			display: block;
+			float: left;
+		}
+		a{
+			text-transform: uppercase;
+			color: $text-color;
+			text-decoration: none;
+			font-weight: 500;
+			height: 50px;
+			padding: 0 15px;
+			font-size: 18px;
+			display: block;
+			position: relative;
+			overflow: hidden;
+			transition: .25s ease;
+			span{
+				position: relative;
+				z-index: 2;
+				display: block;
+			}
+			&:before{
+				content:"";
+				position: absolute;
+				left: 0;
+				top: 0;
+				width: 100%;
+				height: 100%;
+				z-index: 1;
+				background: $accent-color;
+				transform: translate(0, 100%);
+				transition: .25s ease;
+			}
+			&:hover{
+				color: $secondary-color;
+				&:before{
+					transform: translate(0, 0);
+				}
+			}
+		}
+	}
+}

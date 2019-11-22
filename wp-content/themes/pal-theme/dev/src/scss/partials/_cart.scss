@@ -1,0 +1,155 @@
+$cart-image: $field-height;
+$retention: rgba($text-color, .75);
+
+.ecart-products{
+	width: 100%;
+	border-collapse: collapse;
+	text-align: left;
+	th, td{
+		padding: 10px 15px;
+		background: rgba($primary-color, .75);
+		border: 1px solid $retention;
+	}
+	th{
+		color: $text-color;
+		&.ecart{
+			&-remove{
+				width: 20px;
+				max-width: 20px;
+				padding-left: 0;
+				padding-right: 0;
+			}
+			&-image{
+				width: 100px;
+				max-width: 100px;
+			}
+			&-name{
+				width: auto;
+			}
+			&-quantity{
+				width: 90px;
+				max-width: 90px;
+			}
+			&-price{
+				width: 70px;
+				max-width: 70px;
+			}
+		}
+	}
+	td{
+		&[colspan="5"]{
+			border-left: none;
+			border-right: none;
+			padding-left: 0;
+			padding-right: 0;
+			border-bottom: none;
+			.btn{
+				width: 120px;
+				padding: 7.5px 15px;
+				font-size: 12px;
+				float: right;
+			}
+		}
+		input{
+			width: 50px;
+		}
+	}
+	tfoot{
+		td{
+			font-weight: 700;
+			span{
+				font-weight: 700;
+			}
+		}
+		> tr{
+			&:last-child{
+				td{
+					background: none;
+				}
+			}
+		}
+	}
+	img{
+		width: 100px;
+	}
+	input{
+		width: 100%;
+		padding: 0 5px;
+		text-align: center;
+	}
+	.eRemove{
+		border-radius: 50%;
+		transform: rotate(45deg);
+		padding: 0;
+		width: 16px;
+		height: 16px;
+	}
+}
+
+.express-shipping {
+	color: $text-color;
+	font-weight: 700;
+	padding: 0 15px;
+	margin-bottom: 30px;
+	margin-left: -15px;
+	margin-right: -15px;
+	@media(min-width:992px){
+		margin-bottom: 0;
+	}
+	[type="checkbox"]{
+		display: none;
+		&+label{
+			position: relative;
+			height: $field-height;
+			line-height: $field-height;
+			padding-left: 20px;
+			color: $text-color;
+			user-select: none;
+			cursor: pointer;
+			transition: .3s ease;
+			font-size: 13px;
+			@media(min-width:1200px){
+				font-size: 15px;
+			}
+			&:hover{
+				opacity: .9;
+			}
+			&:before{
+				content: "";
+				display: block;
+				width: 15px;
+				height: 15px;
+				background: $text-color;
+				border-radius: 50%;
+				position: absolute;
+				left: 0;
+				top: 50%;
+				transform: translate(0, -50%);
+			}
+			&:after{
+				content: "";
+				opacity: 0;
+				width: 6px;
+				height: 6px;
+				background: $primary-color;
+				border-radius: 50%;
+				position: absolute;
+				left: 4px;
+				top: 50%;
+				transform: translateY(-50%);
+			}
+		}
+		&:checked+label{
+			&:after{
+				opacity: 1;
+			}
+		}
+	}
+}
+
+.dollar:before{
+	content: "$";
+}
+.percent:after{
+	content: "%";
+}

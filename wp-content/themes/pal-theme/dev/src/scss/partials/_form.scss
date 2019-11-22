@@ -1,0 +1,58 @@
+form{
+	li{
+		&:not(:first-child){
+			margin-top: 15px;
+		}
+	}
+	label{
+		display: block;
+		font-size: 14px;
+	}
+	input, select{
+		display: block;
+		width: 100%;
+		height: $field-height;
+		border: 1px solid $text-color;
+		color: $text-color;
+		background: rgba($primary-color, .75);
+		font-size: 14px;
+		padding-left: 15px;
+		padding-right: 15px;
+		transition: .3s ease;
+		&.error{
+			border-color: red;
+			box-shadow: 0 0 4px red inset;
+		}
+	}
+	&.loading{
+		position: relative;
+		display: block;
+		pointer-events: none;
+		&:before, &:after{
+			transform-origin: 0 0;
+			content: "";
+			border-radius: 50%;
+			border-left:2px solid $third-color;
+			display: block;
+			z-index: 2;
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			transform: translate(-50%, -50%);
+		}
+		&:before {
+			animation: spin .8s infinite linear;
+			width: 30px;
+			height: 30px;
+		}
+		&:after {
+			animation: spin 1.2s infinite linear;
+			width: 30px;
+			height: 30px;
+		}
+	}
+}
+@keyframes spin {
+	from {transform:rotate(0deg) translate(-50%, -50%);}
+	to {transform:rotate(360deg) translate(-50%, -50%);}
+}

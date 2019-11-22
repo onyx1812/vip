@@ -1,0 +1,85 @@
+.btn{
+	display: block;
+	width: 100%;
+	text-decoration: none;
+	background: linear-gradient(180deg, #FFE600 0%, #AE8800 100%);
+	color: $btn-text;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 0 15px;
+	position: relative;
+	overflow: hidden;
+	border:none;
+	transition: .3s ease-in-out;
+	cursor: pointer;
+	border-radius: 2px;
+	max-width: 400px;
+	font-weight: 700;
+	height: 36px;
+	font-size: 15px;
+	span{
+		display: block;
+		position: relative;
+		z-index: 2;
+	}
+	&:before{
+		content:"";
+		position: absolute;
+		z-index: 1;
+		left: 4px; right: 4px;
+		top: 4px; bottom: 4px;
+		transform: scale(.5);
+		opacity: 0;
+		background: $primary-color;
+		transition: .3s ease;
+		border-radius: 2px;
+	}
+	&:hover{
+		&:before{
+			transform: scale(1);
+			opacity: 1;
+		}
+	}
+	&--gold{
+		font-size: 30px;
+		font-weight: 700;
+		height: 60px;
+	}
+	&--retention{
+		font-size: 18px;
+		background: none;
+		font-weight: 300;
+		text-align: center;
+		height: 16px;
+		width: 16px;
+		line-height: 16px;
+		&:hover{
+			&:before{
+				display: none;
+			}
+		}
+	}
+	&--revenue{
+		height: auto;
+		padding: 0;
+	}
+	&--submit{
+		font-size: 26px;
+		font-weight: 700;
+		height: 60px;
+		max-width: 100%;
+	}
+	&--add{
+		max-width: 100%;
+		width: calc(100% - 30px);
+		background: $primary-color;
+		&:before{
+			background: #fff;
+		}
+		&:hover{
+			span{
+				color: $primary-color;
+			}
+		}
+	}
+}

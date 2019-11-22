@@ -1,0 +1,65 @@
+.popup{
+	position: fixed;
+	display: flex;
+	left: 0; right: 0; top: 0; bottom: 0;
+	width: 100%; height: 100vh;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity .6s ease;
+	background: rgba(0,0,0, .75);
+	&--close{
+		flex: 25%;
+		max-width: 25%;
+		cursor: pointer;
+		transform: translate(-100%, 0);
+		transition: .6s ease;
+		&:before{
+			content: "+";
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			color: white;
+			display: block;
+			font-size: 50px;
+			font-weight: 300;
+			transform: rotate(45deg) translate(-50%, -50%);
+			transition: background .3s ease;
+		}
+		&:hover{
+			background: rgba(0,0,0, .2);
+		}
+	}
+	&--inner{
+		flex: 75%;
+		max-width: 75%;
+		background: $text-color;
+		padding: 30px 15px;
+		overflow: hidden;
+		overflow-y: auto;
+		transform: translate(100%, 0);
+		transition: .6s ease;
+	}
+	h1{
+		font-size: 24px;
+		margin-bottom: 30px;
+		text-transform: uppercase;
+		color: white;
+		font-weight: 700;
+	}
+	p{
+		font-size: 16px;
+		line-height: 1.2;
+		margin-bottom: 15px;
+		color: white;
+	}
+}
+.popup-active{
+	.popup{
+		z-index: 999;
+		visibility: visible;
+		opacity: 1;
+		&--close, &--inner{
+			transform: translate(0);
+		}
+	}
+}
