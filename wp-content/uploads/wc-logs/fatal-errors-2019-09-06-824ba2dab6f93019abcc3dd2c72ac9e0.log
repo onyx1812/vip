@@ -1,0 +1,2 @@
+2019-09-06T12:55:29+00:00 CRITICAL syntax error, unexpected 'wp_die' (T_STRING) in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\charge.php on line 112
+

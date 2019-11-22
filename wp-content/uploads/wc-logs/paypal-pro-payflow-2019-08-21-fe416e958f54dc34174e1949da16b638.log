@@ -1,0 +1,4458 @@
+08-21-2019 @ 07:50:42 - Processing order #18
+08-21-2019 @ 07:50:42 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 5176.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 18
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 22
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 21
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 21
+    [ITEMAMT] => 5176.00
+    [ORDERDESC] => Order 18 on Massage hero
+    [FIRSTNAME] => Максим
+    [LASTNAME] => Глоба
+    [STREET] => Украина, г. Николаев ул. Дзержинского 56 кв 32, 123, 123, 123, 123, 123, 123 
+    [CITY] => Николаев
+    [STATE] => KS
+    [COUNTRY] => US
+    [ZIP] => 54000
+    [ACCT] => ****
+    [EXPDATE] => 4444
+    [CVV2] => ****
+)
+
+08-21-2019 @ 07:50:43 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 07:53:07 - Processing order #19
+08-21-2019 @ 07:53:07 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 474.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 19
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 2
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 2
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 2
+    [ITEMAMT] => 474.00
+    [ORDERDESC] => Order 19 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 1123
+    [CVV2] => ****
+)
+
+08-21-2019 @ 07:53:08 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:03:26 - Processing order #20
+08-21-2019 @ 09:03:26 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:03:28 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:07:42 - Processing order #20
+08-21-2019 @ 09:07:42 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:07:43 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:08:12 - Processing order #20
+08-21-2019 @ 09:08:12 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:08:13 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:08:22 - Processing order #20
+08-21-2019 @ 09:08:22 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:08:23 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:09:04 - Processing order #20
+08-21-2019 @ 09:09:04 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:09:05 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:09:08 - Processing order #20
+08-21-2019 @ 09:09:08 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:09:09 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:09:29 - Processing order #20
+08-21-2019 @ 09:09:29 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:09:30 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:10:33 - Processing order #20
+08-21-2019 @ 09:10:33 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:10:34 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:10:59 - Processing order #20
+08-21-2019 @ 09:10:59 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:11:00 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:11:02 - Processing order #20
+08-21-2019 @ 09:11:02 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:11:03 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:11:25 - Processing order #20
+08-21-2019 @ 09:11:25 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:11:26 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:11:34 - Processing order #20
+08-21-2019 @ 09:11:34 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:11:35 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:12:37 - Processing order #20
+08-21-2019 @ 09:12:37 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:12:38 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:13:17 - Processing order #20
+08-21-2019 @ 09:13:17 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:13:18 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:13:42 - Processing order #20
+08-21-2019 @ 09:13:42 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:13:44 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:14:18 - Processing order #20
+08-21-2019 @ 09:14:18 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 711.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 20
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 3
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 3
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 3
+    [ITEMAMT] => 711.00
+    [ORDERDESC] => Order 20 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:14:20 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:15:16 - Processing order #21
+08-21-2019 @ 09:15:16 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:15:18 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:15:46 - Processing order #21
+08-21-2019 @ 09:15:46 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:15:47 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:16:27 - Processing order #21
+08-21-2019 @ 09:16:27 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:16:29 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:17:03 - Processing order #21
+08-21-2019 @ 09:17:03 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:17:04 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:17:35 - Processing order #21
+08-21-2019 @ 09:17:35 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:17:37 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:18:31 - Processing order #21
+08-21-2019 @ 09:18:31 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:18:32 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:18:35 - Processing order #21
+08-21-2019 @ 09:18:35 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:18:35 - Processing order #21
+08-21-2019 @ 09:18:35 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:18:36 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:18:37 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:19:01 - Processing order #21
+08-21-2019 @ 09:19:01 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:19:02 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:19:04 - Processing order #21
+08-21-2019 @ 09:19:04 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:19:05 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:19:40 - Processing order #21
+08-21-2019 @ 09:19:40 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:19:42 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:20:20 - Processing order #21
+08-21-2019 @ 09:20:20 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:20:21 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:20:42 - Processing order #21
+08-21-2019 @ 09:20:42 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:20:43 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:20:57 - Processing order #21
+08-21-2019 @ 09:20:57 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:20:58 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:24:05 - Processing order #21
+08-21-2019 @ 09:24:05 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:24:07 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:26:41 - Processing order #21
+08-21-2019 @ 09:26:41 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:26:42 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:27:15 - Processing order #21
+08-21-2019 @ 09:27:15 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:27:16 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:28:24 - Processing order #21
+08-21-2019 @ 09:28:24 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:28:25 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:32:21 - Processing order #21
+08-21-2019 @ 09:32:21 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:32:23 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:33:13 - Processing order #21
+08-21-2019 @ 09:33:13 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:33:14 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:33:42 - Processing order #21
+08-21-2019 @ 09:33:42 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:33:44 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:34:33 - Processing order #21
+08-21-2019 @ 09:34:33 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:34:35 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:35:27 - Processing order #21
+08-21-2019 @ 09:35:27 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:35:28 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:37:16 - Processing order #21
+08-21-2019 @ 09:37:16 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:37:17 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:37:27 - Processing order #21
+08-21-2019 @ 09:37:27 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:37:28 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:38:07 - Processing order #21
+08-21-2019 @ 09:38:07 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:38:08 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:38:15 - Processing order #21
+08-21-2019 @ 09:38:15 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:38:17 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:38:26 - Processing order #21
+08-21-2019 @ 09:38:26 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:38:27 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:40:10 - Processing order #21
+08-21-2019 @ 09:40:10 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:40:11 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:40:41 - Processing order #21
+08-21-2019 @ 09:40:41 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 948.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 21
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 4
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 4
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 4
+    [ITEMAMT] => 948.00
+    [ORDERDESC] => Order 21 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:40:42 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 09:57:42 - Processing order #22
+08-21-2019 @ 09:57:42 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 09:57:43 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 10:00:54 - Processing order #22
+08-21-2019 @ 10:00:54 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 10:00:56 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:16:10 - Processing order #22
+08-21-2019 @ 11:16:10 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:16:12 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:16:35 - Processing order #22
+08-21-2019 @ 11:16:35 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:16:37 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:17:23 - Processing order #22
+08-21-2019 @ 11:17:23 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:17:24 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:18:20 - Processing order #22
+08-21-2019 @ 11:18:20 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:18:21 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:19:20 - Processing order #22
+08-21-2019 @ 11:19:20 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:19:21 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:19:48 - Processing order #22
+08-21-2019 @ 11:19:48 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:19:50 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:20:15 - Processing order #22
+08-21-2019 @ 11:20:15 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:20:16 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:22:03 - Processing order #22
+08-21-2019 @ 11:22:03 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:22:05 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:22:36 - Processing order #22
+08-21-2019 @ 11:22:36 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:22:38 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:22:54 - Processing order #22
+08-21-2019 @ 11:22:54 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:22:55 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:24:20 - Processing order #22
+08-21-2019 @ 11:24:20 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:24:21 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:24:40 - Processing order #22
+08-21-2019 @ 11:24:40 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:24:41 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:25:57 - Processing order #22
+08-21-2019 @ 11:25:57 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:25:58 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:26:21 - Processing order #22
+08-21-2019 @ 11:26:21 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:26:22 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:26:30 - Processing order #22
+08-21-2019 @ 11:26:30 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:26:31 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:28:41 - Processing order #22
+08-21-2019 @ 11:28:41 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:28:42 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:28:51 - Processing order #22
+08-21-2019 @ 11:28:51 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:28:52 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:29:01 - Processing order #22
+08-21-2019 @ 11:29:01 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:29:02 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:29:36 - Processing order #22
+08-21-2019 @ 11:29:36 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:29:38 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:30:21 - Processing order #22
+08-21-2019 @ 11:30:21 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:30:22 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:31:29 - Processing order #22
+08-21-2019 @ 11:31:29 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:31:30 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:32:03 - Processing order #22
+08-21-2019 @ 11:32:03 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:32:04 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:43:41 - Processing order #22
+08-21-2019 @ 11:43:41 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:43:42 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:44:20 - Processing order #22
+08-21-2019 @ 11:44:20 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:44:21 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:44:31 - Processing order #22
+08-21-2019 @ 11:44:31 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:44:32 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:46:35 - Processing order #22
+08-21-2019 @ 11:46:35 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:46:36 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:49:14 - Processing order #22
+08-21-2019 @ 11:49:14 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:49:16 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:49:53 - Processing order #22
+08-21-2019 @ 11:49:53 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:49:54 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:50:53 - Processing order #22
+08-21-2019 @ 11:50:53 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:50:54 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:50:57 - Processing order #22
+08-21-2019 @ 11:50:57 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:50:58 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:51:05 - Processing order #22
+08-21-2019 @ 11:51:05 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:51:06 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:51:21 - Processing order #22
+08-21-2019 @ 11:51:21 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1185.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 22
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 5
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 5
+    [ITEMAMT] => 1185.00
+    [ORDERDESC] => Order 22 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11111111111111111111111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:51:22 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:59:15 - Processing order #23
+08-21-2019 @ 11:59:15 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1896.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 23
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 8
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 8
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 8
+    [ITEMAMT] => 1896.00
+    [ORDERDESC] => Order 23 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 11:59:16 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 11:59:58 - Processing order #23
+08-21-2019 @ 11:59:58 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1896.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 23
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 8
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 8
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 8
+    [ITEMAMT] => 1896.00
+    [ORDERDESC] => Order 23 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 111111111
+    [CVV2] => ****
+)
+
+08-21-2019 @ 12:00:00 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 12:00:10 - Processing order #23
+08-21-2019 @ 12:00:10 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1896.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 23
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 8
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 8
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 8
+    [ITEMAMT] => 1896.00
+    [ORDERDESC] => Order 23 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11-889
+    [CVV2] => ****
+)
+
+08-21-2019 @ 12:00:11 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:01:08 - Processing order #25
+08-21-2019 @ 13:01:08 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11-889
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:01:10 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:01:13 - Processing order #25
+08-21-2019 @ 13:01:13 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11-889
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:01:15 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:01:25 - Processing order #25
+08-21-2019 @ 13:01:25 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11-889
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:01:27 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:01:30 - Processing order #25
+08-21-2019 @ 13:01:30 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11-889
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:01:32 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:01:34 - Processing order #25
+08-21-2019 @ 13:01:34 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 11-889
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:01:36 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:02:12 - Processing order #25
+08-21-2019 @ 13:02:12 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:02:13 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:02:15 - Processing order #25
+08-21-2019 @ 13:02:15 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:02:16 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:02:20 - Processing order #25
+08-21-2019 @ 13:02:20 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:02:22 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:02:25 - Processing order #25
+08-21-2019 @ 13:02:25 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:02:26 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:02:29 - Processing order #25
+08-21-2019 @ 13:02:29 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:02:31 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:03:36 - Processing order #25
+08-21-2019 @ 13:03:36 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:03:38 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 13:03:43 - Processing order #25
+08-21-2019 @ 13:03:43 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2607.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 25
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 11
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 11
+    [ITEMAMT] => 2607.00
+    [ORDERDESC] => Order 25 on Massage hero
+    [FIRSTNAME] => Max
+    [LASTNAME] => Globa
+    [STREET] => 5899 Green Valley Cir 
+    [CITY] => Culver City
+    [STATE] => CA
+    [COUNTRY] => US
+    [ZIP] => 90230
+    [ACCT] => ****
+    [EXPDATE] => 00
+    [CVV2] => ****
+)
+
+08-21-2019 @ 13:03:44 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 14:05:08 - Processing order #26
+08-21-2019 @ 14:05:08 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 2797.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 26
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 11
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 20
+    [L_NAME2] => 1 Year Replacement Warranty
+    [L_COST2] => 19.00
+    [L_QTY2] => 12
+    [ITEMAMT] => 2797.00
+    [ORDERDESC] => Order 26 on Massage hero
+    [FIRSTNAME] => Максим
+    [LASTNAME] => Глоба
+    [STREET] => Украина, г. Николаев ул. Дзержинского 56 кв 32, 123, 123, 123, 123, 123 123
+    [CITY] => Николаев
+    [STATE] => KS
+    [COUNTRY] => US
+    [ZIP] => 54000
+    [ACCT] => ****
+    [EXPDATE] => 11-889
+    [CVV2] => ****
+)
+
+08-21-2019 @ 14:05:09 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+
+08-21-2019 @ 14:37:09 - Processing order #27
+08-21-2019 @ 14:37:09 - Do payment request Array
+(
+    [USER] => ND7T24LH9NGFC
+    [VENDOR] => ND7T24LH9NGFC
+    [PARTNER] => VSA
+    [PWD] => VSA
+    [TENDER] => C
+    [TRXTYPE] => S
+    [AMT] => 1137.00
+    [CURRENCY] => USD
+    [CUSTIP] => 127.0.0.1
+    [EMAIL] => onyx18121990@gmail.com
+    [INVNUM] => 27
+    [BUTTONSOURCE] => WooThemes_Cart
+    [MERCHDESCR] => MassageHero
+    [L_NAME0] => Massage hero
+    [L_COST0] => 199.00
+    [L_QTY0] => 5
+    [L_NAME1] => Carry case
+    [L_COST1] => 19.00
+    [L_QTY1] => 6
+    [L_NAME2] => Express Shipping 3-5 Days
+    [L_COST2] => 9.00
+    [L_QTY2] => 1
+    [L_NAME3] => 1 Year Replacement Warranty
+    [L_COST3] => 19.00
+    [L_QTY3] => 1
+    [ITEMAMT] => 1137.00
+    [ORDERDESC] => Order 27 on Massage hero
+    [FIRSTNAME] => Максим
+    [LASTNAME] => Глоба
+    [STREET] => Украина, г. Николаев ул. Дзержинского 56 кв 32, 123, 123, 123, 123, 123 123
+    [CITY] => Николаев
+    [STATE] => KS
+    [COUNTRY] => US
+    [ZIP] => 54000
+    [ACCT] => ****
+    [EXPDATE] => 11-889
+    [CVV2] => ****
+)
+
+08-21-2019 @ 14:37:10 - Parsed Response Array
+(
+    [RESULT] => 1
+    [RESPMSG] => User authentication failed
+)
+

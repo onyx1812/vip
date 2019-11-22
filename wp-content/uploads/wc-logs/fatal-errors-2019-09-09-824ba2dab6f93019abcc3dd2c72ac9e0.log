@@ -1,0 +1,100 @@
+2019-09-09T10:01:48+00:00 CRITICAL Uncaught Error: Call to undefined function wck_insert_checkout_tracking() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php:16
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 16
+
+2019-09-09T10:03:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wck_insert_checkout_tracking(), 0 passed in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 16 and exactly 1 expected in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php:124
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php(16): wck_insert_checkout_tracking()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php on line 124
+
+2019-09-09T10:03:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wck_insert_checkout_tracking(), 0 passed in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 16 and exactly 1 expected in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php:124
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php(16): wck_insert_checkout_tracking()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php on line 124
+
+2019-09-09T10:03:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wck_insert_checkout_tracking(), 0 passed in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 16 and exactly 1 expected in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php:124
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php(16): wck_insert_checkout_tracking()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php on line 124
+
+2019-09-09T10:03:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wck_insert_checkout_tracking(), 0 passed in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 16 and exactly 1 expected in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php:124
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php(16): wck_insert_checkout_tracking()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php on line 124
+
+2019-09-09T10:04:25+00:00 CRITICAL Uncaught Error: Call to undefined function mg_insert_checkout_tracking() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php:16
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 16
+
+2019-09-09T10:06:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wck_insert_checkout_tracking(), 0 passed in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 16 and exactly 1 expected in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php:124
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php(16): wck_insert_checkout_tracking()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php on line 124
+
+2019-09-09T10:06:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wck_insert_checkout_tracking(), 0 passed in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 16 and exactly 1 expected in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php:124
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php(16): wck_insert_checkout_tracking()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php on line 124
+
+2019-09-09T10:07:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wck_insert_checkout_tracking(), 0 passed in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 17 and exactly 1 expected in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php:124
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php(17): wck_insert_checkout_tracking()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php on line 124
+
+2019-09-09T10:08:05+00:00 CRITICAL Uncaught Error: Call to undefined function WC_Checkout() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php:16
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 16
+
+2019-09-09T10:08:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wck_insert_checkout_tracking(), 0 passed in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 16 and exactly 1 expected in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php:124
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php(16): wck_insert_checkout_tracking()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php on line 124
+
+2019-09-09T10:12:52+00:00 CRITICAL Cannot redeclare wck_insert_checkout_tracking() (previously declared in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php:124) in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 191
+
+2019-09-09T10:14:58+00:00 CRITICAL Cannot redeclare wck_insert_checkout_tracking() (previously declared in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce-klaviyo-master\includes\wck-cart-functions.php:124) in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v5.php on line 191
+

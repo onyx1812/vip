@@ -1,0 +1,45 @@
+2019-08-20T08:28:39+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\functions.php on line 20
+
+2019-08-20T09:14:29+00:00 CRITICAL syntax error, unexpected ';' in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php on line 10
+
+2019-08-20T09:14:40+00:00 CRITICAL syntax error, unexpected ';' in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php on line 10
+
+2019-08-20T09:14:59+00:00 CRITICAL syntax error, unexpected 'wp_die' (T_STRING) in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php on line 14
+
+2019-08-20T09:15:37+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php on line 10
+
+2019-08-20T09:55:43+00:00 CRITICAL Uncaught Error: Class 'WP_Session' not found in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php:4
+Stack trace:
+#0 C:\OSPanel\domains\massage-hero.local\01\wp-includes\class-wp-hook.php(286): addToCart('')
+#1 C:\OSPanel\domains\massage-hero.local\01\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\OSPanel\domains\massage-hero.local\01\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\massage-hero.local\01\wp-admin\admin-ajax.php(173): do_action('wp_ajax_addToCa...')
+#4 {main}
+  thrown in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php on line 4
+
+2019-08-20T09:56:25+00:00 CRITICAL Uncaught Error: Class 'WP_Session' not found in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php:4
+Stack trace:
+#0 C:\OSPanel\domains\massage-hero.local\01\wp-includes\class-wp-hook.php(286): addToCart('')
+#1 C:\OSPanel\domains\massage-hero.local\01\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\OSPanel\domains\massage-hero.local\01\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\massage-hero.local\01\wp-admin\admin-ajax.php(173): do_action('wp_ajax_addToCa...')
+#4 {main}
+  thrown in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php on line 4
+
+2019-08-20T09:57:04+00:00 CRITICAL Uncaught Error: Class 'WP_Session' not found in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php:4
+Stack trace:
+#0 C:\OSPanel\domains\massage-hero.local\01\wp-includes\class-wp-hook.php(286): addToCart('')
+#1 C:\OSPanel\domains\massage-hero.local\01\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\OSPanel\domains\massage-hero.local\01\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\massage-hero.local\01\wp-admin\admin-ajax.php(173): do_action('wp_ajax_addToCa...')
+#4 {main}
+  thrown in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php on line 4
+
+2019-08-20T10:31:25+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php on line 11
+
+2019-08-20T10:31:39+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php on line 10
+
+2019-08-20T10:31:40+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php on line 10
+
+2019-08-20T12:11:10+00:00 CRITICAL syntax error, unexpected ')' in C:\OSPanel\domains\massage-hero.local\01\wp-content\themes\pal-theme\include\add_to_cart.php on line 9
+

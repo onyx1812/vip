@@ -1,0 +1,67 @@
+2019-09-03T07:06:24+00:00 CRITICAL require_once(): Failed opening required 'stripe/vendor/autoload.php' (include_path='.;c:/ospanel/modules/php/PHP-7.2;c:/ospanel/modules/php/PHP-7.2/PEAR/pear') in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\include\payment-stripe-charge.php on line 3
+
+2019-09-03T07:07:35+00:00 CRITICAL require_once(): Failed opening required 'https://massage-hero.localhost/wp-content/themes/pal-theme/stripe/vendor/autoload.php' (include_path='.;c:/ospanel/modules/php/PHP-7.2;c:/ospanel/modules/php/PHP-7.2/PEAR/pear') in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\include\payment-stripe-charge.php on line 5
+
+2019-09-03T11:18:22+00:00 CRITICAL syntax error, unexpected ';' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\charge.php on line 27
+
+2019-09-03T11:18:43+00:00 CRITICAL syntax error, unexpected ';' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\charge.php on line 26
+
+2019-09-03T11:18:44+00:00 CRITICAL syntax error, unexpected ';' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\charge.php on line 26
+
+2019-09-03T11:18:56+00:00 CRITICAL syntax error, unexpected '$charge' (T_VARIABLE) in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\charge.php on line 29
+
+2019-09-03T11:19:33+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\charge.php on line 28
+
+2019-09-03T11:23:14+00:00 CRITICAL syntax error, unexpected '$charge' (T_VARIABLE) in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\charge.php on line 28
+
+2019-09-03T11:23:46+00:00 CRITICAL Uncaught Stripe\Error\InvalidRequest: No such token: [object Object] in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php:125
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(99): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 400, Array, Array, Array)
+#1 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(310): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 400, Array, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(61): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiOperations\Request.php(56): Stripe\ApiRequestor->request('post', '/v1/customers', Array, Arr in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php on line 125
+
+2019-09-03T11:25:42+00:00 CRITICAL Uncaught Stripe\Error\InvalidRequest: No such token: [object Object] in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php:125
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(99): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 400, Array, Array, Array)
+#1 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(310): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 400, Array, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(61): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiOperations\Request.php(56): Stripe\ApiRequestor->request('post', '/v1/customers', Array, Arr in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php on line 125
+
+2019-09-03T11:41:58+00:00 CRITICAL Uncaught Stripe\Error\InvalidRequest: Charge ch_1FEaOXGNtXCd4U0Xdoc9KHms has already been captured. in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php:125
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(99): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 400, Array, Array, Array)
+#1 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(310): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 400, Array, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(61): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiOperations\Request.php(56): Stripe\ApiRequestor->request('pos in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php on line 125
+
+2019-09-03T11:43:00+00:00 CRITICAL Uncaught Error: Call to undefined method Stripe\Charge::status() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\charge.php:35
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): stripeCharge('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-admin\admin-ajax.php(173): do_action('wp_ajax_stripeC...')
+#4 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\charge.php on line 35
+
+2019-09-03T11:52:04+00:00 CRITICAL Uncaught Stripe\Error\InvalidRequest: No such order: or_1FEaDEGNtXCd4U0XfLKRp9HJ in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php:125
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(99): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 404, Array, Array, Array)
+#1 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(310): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 404, Array, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(61): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 404, Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiResource.php(62): Stripe\ApiRequestor->request('get', '/v1/orders/or_1...', Arra in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php on line 125
+
+2019-09-03T11:53:59+00:00 CRITICAL Uncaught Stripe\Error\InvalidRequest: No such order: or_1FEaDEGNtXCd4U0XfLKRp9HJ in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php:125
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(99): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 404, Array, Array, Array)
+#1 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(310): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 404, Array, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(61): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 404, Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiResource.php(62): Stripe\ApiRequestor->request('get', '/v1/orders/or_1...', Arra in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php on line 125
+
+2019-09-03T11:55:27+00:00 CRITICAL Uncaught Stripe\Error\InvalidRequest: No such order: or_1FEaDEGNtXCd4U0XfLKRp9HJ in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php:125
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(99): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 404, Array, Array, Array)
+#1 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(310): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 404, Array, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(61): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 404, Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiResource.php(62): Stripe\ApiRequestor->request('get', '/v1/orders/or_1...', Arra in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php on line 125
+

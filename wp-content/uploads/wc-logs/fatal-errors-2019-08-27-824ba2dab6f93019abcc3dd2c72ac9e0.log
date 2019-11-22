@@ -1,0 +1,30 @@
+2019-08-27T07:54:42+00:00 CRITICAL syntax error, unexpected ')' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 44
+
+2019-08-27T07:54:44+00:00 CRITICAL syntax error, unexpected ')' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 44
+
+2019-08-27T09:08:43+00:00 CRITICAL Cannot redeclare cpt_advantages_fun() (previously declared in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\include\cpt_advantages.php:7) in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\include\cpt_advantages.php on line 34
+
+2019-08-27T09:40:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_thumbnail_url() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\cpt-applicability.php:26
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template.php(724): require()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\template.php(671): load_template('C:\\OSPanel\\doma...', false)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page_buy-now_v1.php(29): get_template_part('partials/cpt', 'applicability')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\cpt-applicability.php on line 26
+
+2019-08-27T09:43:53+00:00 CRITICAL syntax error, unexpected '!' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\cpt-applicability.php on line 13
+
+2019-08-27T09:48:27+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\cpt-applicability.php on line 13
+
+2019-08-27T09:48:47+00:00 CRITICAL syntax error, unexpected ';' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\cpt-applicability.php on line 17
+
+2019-08-27T09:50:50+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\cpt-applicability.php on line 13
+
+2019-08-27T09:52:16+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\cpt-applicability.php on line 13
+
+2019-08-27T09:53:10+00:00 CRITICAL syntax error, unexpected ';' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\cpt-applicability.php on line 17
+

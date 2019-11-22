@@ -1,0 +1,7 @@
+2019-09-04T13:03:26+00:00 CRITICAL Uncaught Stripe\Error\Card: Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing. in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php:129
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(99): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 402, Array, Array, Array)
+#1 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(310): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 402, Array, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php(61): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 402, Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendo in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\stripe\vendor\stripe\stripe-php\lib\ApiRequestor.php on line 129
+

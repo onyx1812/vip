@@ -1,0 +1,20 @@
+2019-08-30T09:34:44+00:00 CRITICAL syntax error, unexpected ':' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\footer.php on line 12
+
+2019-08-30T09:34:54+00:00 CRITICAL syntax error, unexpected ':' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\footer.php on line 12
+
+2019-08-30T09:45:00+00:00 CRITICAL syntax error, unexpected '{', expecting ':' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\block-header.php on line 16
+
+2019-08-30T09:45:07+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ':' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\block-header.php on line 16
+
+2019-08-30T10:30:47+00:00 CRITICAL Uncaught Error: Call to undefined function cart_icon() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\header.php:27
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template.php(722): require_once()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\template.php(671): load_template('C:\\OSPanel\\doma...', true)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\templates\page-v3.php(5): get_header()
+#4 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\header.php on line 27
+

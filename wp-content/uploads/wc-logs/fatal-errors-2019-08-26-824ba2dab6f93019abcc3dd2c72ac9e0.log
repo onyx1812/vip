@@ -1,0 +1,203 @@
+2019-08-26T11:55:23+00:00 CRITICAL Uncaught Error: Call to a member function empty_cart() on null in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:80
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-cron.php(39): require_once('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 80
+
+2019-08-26T11:56:54+00:00 CRITICAL Uncaught Error: Call to a member function empty_cart() on null in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:80
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-cron.php(39): require_once('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 80
+
+2019-08-26T11:57:55+00:00 CRITICAL Uncaught Error: Call to a member function empty_cart() on null in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:80
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-cron.php(39): require_once('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 80
+
+2019-08-26T11:59:09+00:00 CRITICAL Uncaught Error: Call to a member function empty_cart() on null in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:80
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-cron.php(39): require_once('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 80
+
+2019-08-26T11:59:34+00:00 CRITICAL Uncaught Error: Call to a member function empty_cart() on null in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:80
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#7 C:\OSPanel\domains\GIT-massagehero\wp-admin\index.php(10): require_once('C:\\OSPanel\\doma...')
+#8 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 80
+
+2019-08-26T12:00:06+00:00 CRITICAL Uncaught Error: Call to a member function empty_cart() on null in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:80
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#7 C:\OSPanel\domains\GIT-massagehero\wp-admin\index.php(10): require_once('C:\\OSPanel\\doma...')
+#8 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 80
+
+2019-08-26T12:00:35+00:00 CRITICAL Uncaught Error: Call to a member function empty_cart() on null in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:80
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-cron.php(39): require_once('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 80
+
+2019-08-26T12:00:35+00:00 CRITICAL Uncaught Error: Call to a member function empty_cart() on null in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:80
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#7 C:\OSPanel\domains\GIT-massagehero\wp-admin\index.php(10): require_once('C:\\OSPanel\\doma...')
+#8 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 80
+
+2019-08-26T12:00:51+00:00 CRITICAL Uncaught Error: Call to a member function empty_cart() on null in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:80
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#7 C:\OSPanel\domains\GIT-massagehero\wp-admin\index.php(10): require_once('C:\\OSPanel\\doma...')
+#8 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 80
+
+2019-08-26T12:02:22+00:00 CRITICAL syntax error, unexpected ';', expecting ',' or ')' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 89
+
+2019-08-26T12:02:25+00:00 CRITICAL syntax error, unexpected ';', expecting ',' or ')' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 89
+
+2019-08-26T12:03:15+00:00 CRITICAL Uncaught Error: Call to a member function empty_cart() on null in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:80
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#7 C:\OSPanel\domains\GIT-massagehero\wp-admin\index.php(10): require_once('C:\\OSPanel\\doma...')
+#8 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 80
+
+2019-08-26T12:05:10+00:00 CRITICAL Uncaught Error: Cannot instantiate abstract class WP_Session_Tokens in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:79
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-cron.php(39): require_once('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 79
+
+2019-08-26T12:05:10+00:00 CRITICAL Uncaught Error: Cannot instantiate abstract class WP_Session_Tokens in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:79
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#7 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#8 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 79
+
+2019-08-26T12:11:00+00:00 CRITICAL Uncaught Error: Call to protected WP_Session_Tokens::__construct() from invalid context in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:79
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-cron.php(39): require_once('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 79
+
+2019-08-26T12:11:00+00:00 CRITICAL Uncaught Error: Call to protected WP_Session_Tokens::__construct() from invalid context in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:79
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): woocommerce_clear_cart_url('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#7 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#8 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 79
+
+2019-08-26T12:25:18+00:00 CRITICAL Uncaught Error: Call to a member function empty_cart() on null in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php:83
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): register_my_session('')
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-settings.php(525): do_action('init')
+#4 C:\OSPanel\domains\GIT-massagehero\wp-config.php(92): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\GIT-massagehero\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\GIT-massagehero\wp-cron.php(39): require_once('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 83
+
+2019-08-26T14:05:24+00:00 CRITICAL syntax error, unexpected end of file in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\functions.php on line 210
+
+2019-08-26T14:19:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Cart::remove_cart_item(), 0 passed in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\include\add_to_cart.php on line 24 and exactly 1 expected in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce\includes\class-wc-cart.php:1125
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\include\add_to_cart.php(24): WC_Cart->remove_cart_item()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(286): removeFromCart('')
+#2 C:\OSPanel\domains\GIT-massagehero\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 C:\OSPanel\domains\GIT-massagehero\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\OSPanel\domains\GIT-massagehero\wp-admin\admin-ajax.php(173): do_action('wp_ajax_removeF...')
+#5 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\plugins\woocommerce\includes\class-wc-cart.php on line 1125
+

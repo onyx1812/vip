@@ -1,0 +1,8 @@
+2019-08-23T06:21:31+00:00 CRITICAL syntax error, unexpected '=', expecting ',' or ';' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\header.php on line 5
+
+2019-08-23T06:32:51+00:00 CRITICAL syntax error, unexpected 'ж' (T_STRING), expecting ',' or ';' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\video-black.php on line 3
+
+2019-08-23T06:40:40+00:00 CRITICAL syntax error, unexpected '?>' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\video-black.php on line 1
+
+2019-08-23T06:40:55+00:00 CRITICAL syntax error, unexpected '?>' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\partials\video-black.php on line 1
+

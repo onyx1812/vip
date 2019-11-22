@@ -1,0 +1,74 @@
+2019-09-05T12:08:55+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ':' in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\footer.php on line 5
+
+2019-09-05T12:19:49+00:00 CRITICAL Uncaught Error: Call to undefined function home_page() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php:11
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php on line 11
+
+2019-09-05T12:20:00+00:00 CRITICAL Uncaught Error: Call to undefined function home_page() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php:11
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php on line 11
+
+2019-09-05T12:20:23+00:00 CRITICAL Uncaught Error: Call to undefined function home_page() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php:11
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php on line 11
+
+2019-09-05T12:20:25+00:00 CRITICAL Uncaught Error: Call to undefined function home_page() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php:11
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php on line 11
+
+2019-09-05T12:20:25+00:00 CRITICAL Uncaught Error: Call to undefined function home_page() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php:11
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php on line 11
+
+2019-09-05T12:20:25+00:00 CRITICAL Uncaught Error: Call to undefined function home_page() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php:11
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php on line 11
+
+2019-09-05T12:20:25+00:00 CRITICAL Uncaught Error: Call to undefined function home_page() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php:11
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php on line 11
+
+2019-09-05T12:20:26+00:00 CRITICAL Uncaught Error: Call to undefined function home_page() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php:11
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php on line 11
+
+2019-09-05T12:20:39+00:00 CRITICAL Uncaught Error: Call to undefined function home_page() in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php:11
+Stack trace:
+#0 C:\OSPanel\domains\GIT-massagehero\wp-includes\template-loader.php(78): include()
+#1 C:\OSPanel\domains\GIT-massagehero\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\GIT-massagehero\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown in C:\OSPanel\domains\GIT-massagehero\wp-content\themes\pal-theme\404.php on line 11
+
